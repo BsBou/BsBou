@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borhan</h1>
 <h3 align="center">A full stack developer</h3>
 
-- 🌱 I’m currently learning **Reac**
-
 - 📫 How to reach me **borhan.boulandier@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
