@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borhan</h1>
-<h3 align="center">A full stack developer</h3>
 
-- Currently a Rails dev at <a href="https://www.passentry.com/"> PassEntry</a> and part time lecturer at <a href="https://www.lewagon.com/london"> Le Wagon London! </a>
+- Currently a Rails dev at <a href="https://www.passentry.com/"> PassEntry</a> and part time lecturer at <a href="https://www.lewagon.com/london"> Le Wagon London </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
